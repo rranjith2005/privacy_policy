@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy | Stall Spot</title>
+    <style>
+        /* --- CSS STYLING --- */
+        :root {
+            --primary-color: #FF6B6B; /* Your Brand Pink */
+            --text-dark: #333333;
+            --text-light: #666666;
+            --bg-color: #FAFAFA;
+            --card-bg: #FFFFFF;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-dark);
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 40px auto;
+            background: var(--card-bg);
+            padding: 40px;
+            border-radius: 16px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+        }
+
+        /* Header Design */
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+            border-bottom: 2px solid #f0f0f0;
+            padding-bottom: 20px;
+        }
+
+        h1 {
+            color: var(--primary-color);
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+
+        .last-updated {
+            color: var(--text-light);
+            font-size: 0.9rem;
+            font-style: italic;
+        }
+
+        /* Content Typography */
+        h2 {
+            color: var(--text-dark);
+            border-left: 4px solid var(--primary-color);
+            padding-left: 12px;
+            margin-top: 30px;
+            font-size: 1.5rem;
+        }
+
+        p, ul {
+            color: var(--text-light);
+            font-size: 1rem;
+            margin-bottom: 16px;
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        /* Contact Box - The "Catchy" Part */
+        .contact-box {
+            background: linear-gradient(135deg, #FF6B6B 0%, #ff8e8e 100%);
+            color: white;
+            padding: 24px;
+            border-radius: 12px;
+            text-align: center;
+            margin-top: 40px;
+        }
+
+        .contact-box h3 {
+            margin-top: 0;
+            color: white;
+        }
+
+        .contact-box a {
+            color: white;
+            font-weight: bold;
+            font-size: 1.2rem;
+            text-decoration: none;
+            background: rgba(255,255,255,0.2);
+            padding: 10px 20px;
+            border-radius: 30px;
+            display: inline-block;
+            margin-top: 10px;
+            transition: background 0.3s ease;
+        }
+
+        .contact-box a:hover {
+            background: rgba(255,255,255,0.4);
+        }
+
+        /* Mobile Responsiveness */
+        @media (max-width: 600px) {
+            .container {
+                padding: 20px;
+                margin: 10px;
+            }
+            h1 { font-size: 2rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>Stall Spot</h1>
+            <p>Privacy Policy</p>
+            <p class="last-updated">Last updated: December 2025</p>
+        </header>
+
+        <section>
+            <p>Welcome to <strong>Stall Spot</strong>. We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us.</p>
+            
+            <p>When you visit our mobile application "Stall Spot" and use our services, you trust us with your personal information. We take your privacy very seriously.</p>
+        </section>
+
+        <section>
+            <h2>1. Information We Collect</h2>
+            <p>We collect personal information that you voluntarily provide to us when registering at the App, expressing an interest in obtaining information about us or our products and services, when participating in activities on the App (such as posting messages in our online forums or entering competitions, contests or giveaways) or otherwise contacting us.</p>
+            <ul>
+                <li><strong>Personal Identity:</strong> Name, Student ID/Register Number.</li>
+                <li><strong>Contact Data:</strong> Phone numbers (used for login and OTP verification) and Email addresses.</li>
+                <li><strong>Location Data:</strong> We may collect location data (Latitude/Longitude) specifically for Stall Owners to map stall locations on the campus.</li>
+                <li><strong>Payment Data:</strong> We do not store sensitive credit card data. All payments are processed by our third-party partner, Razorpay.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>2. How We Use Your Information</h2>
+            <p>We use personal information collected via our App for a variety of business purposes described below:</p>
+            <ul>
+                <li>To facilitate account creation and logon process (for Students, Owners, and Admins).</li>
+                <li>To fulfill and manage your orders (Dine-in, Parcel, and Pre-parcel).</li>
+                <li>To send administrative information to you, such as product, service, and new feature information.</li>
+                <li>To enforce our terms, conditions, and policies.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>3. Sharing Your Information</h2>
+            <p>We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.</p>
+            <p>We may process or share data based on the following legal basis: <strong>Vendors, Consultants and Other Third-Party Service Providers.</strong> We may share your data with third-party vendors (like Razorpay for payments) who perform services for us or on our behalf.</p>
+        </section>
+
+        <section>
+            <h2>4. Security of Your Information</h2>
+            <p>We use administrative, technical, and physical security measures to help protect your personal information. While we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception or other type of misuse.</p>
+        </section>
+
+        <section>
+            <h2>5. Contact Us</h2>
+            <p>If you have questions or comments about this policy, you may email us directly.</p>
+            
+            <div class="contact-box">
+                <h3>Got Questions?</h3>
+                <p>We are happy to help you.</p>
+                <a href="mailto:ranjithsuriya12345@gmail.com">ranjithsuriya12345@gmail.com</a>
+            </div>
+        </section>
+
+        <footer style="text-align: center; margin-top: 50px; font-size: 0.8rem; color: #ccc;">
+            &copy; 2025 Stall Spot. All rights reserved.
+        </footer>
+    </div>
+
+</body>
+</html>
